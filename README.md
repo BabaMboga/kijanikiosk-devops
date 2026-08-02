@@ -8,4 +8,4 @@ This repository contain hands-on labs that simulate the DevOps transformation of
 
 - Initialised the project repository.
 - Added the project README and documentation.
-- Established the foundation for the KijaniKiosk DevOps journey.
+- Established the foundation for the KijaniKiosk DevOps journey.Feature A update
