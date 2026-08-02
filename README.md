@@ -6,10 +6,9 @@ This repository contain hands-on labs that simulate the DevOps transformation of
 
 ## About the Project
 
-KijaniKiosk is a fictional retail platform used throughout this repository to demonstrate real-world DevOps practices.
+KijaniKiosk is a retail platform used throughout this repository to demonstrate real-world DevOps practices.
 
-## Release 1
-
+## Release 
 - Initialised the project repository.
 - Added the project README and documentation.
 - Established the foundation for the KijaniKiosk DevOps journey.
