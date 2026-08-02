@@ -4,6 +4,10 @@ DevOps improves delivery speed and reliability.
 
 This repository contain hands-on labs that simulate the DevOps transformation of KijaniKiosk, a rapidly growing retail platform.The labs introdce practices that imrpove software delivery by increasing flow, strengthening feedback loops and fosterign continous learning through automation, CI/CD, monitoring and incident response.
 
+## About the Project
+
+KijaniKiosk is a fictional retail platform used throughout this repository to demonstrate real-world DevOps practices.
+
 ## Release 1
 
 - Initialised the project repository.
